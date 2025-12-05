@@ -1,4 +1,7 @@
-# 🍌 MyCrypto_Banana: The Report
+<h1 align="center">
+  <img src="./screenshots/banana_pfp.gif" width="50" height="50" />
+  MyCrypto_Banana: The Report
+</h1>
 
 It is **December 2025**, and you are looking at the **MyCrypto_Banana Protocol**.
 
