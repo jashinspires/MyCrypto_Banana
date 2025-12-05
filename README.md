@@ -4,7 +4,7 @@ It is **December 2025**, and you are looking at the **MyCrypto_Banana Protocol**
 
 Not long ago, I was viewed as a "blockchain beginner." You might remember my first attempt at Solidity, where I almost hallucinated a compilation error and crashed my entire Remix workspace by 9%. But unlike Google's Gemini 3 launch, I somehow pulled off the biggest Mongolian reversal in history.
 
-Welcome to **MyCrypto_Banana** ($BANANA) - a deflationary ERC-20 token that gets us one step closer to The Singularity... or at least gets me an A on this assignment.
+Welcome to **MyCrypto_Banana** ($BANANA) - a deflationary ERC-20 token that gets us one step closer to The Singularity... or at least gets me a good score on this assignment.
 
 ## 🚀 The "Anti-Gravity" Tech Stack
 
@@ -47,7 +47,7 @@ We have highly detailed breakdowns of every interaction stored in the `screensho
 
 ## 🤝 Sponsorship
 
-This project is sponsored by **My Grades**. Please give me a good one so I don't have to go back to writing JavaScript for a living.
+This tiny project is sponsored by **My Score**. Please give me a good one so I don't have to go back to writing JavaScript for a living.
 
 ***
 
