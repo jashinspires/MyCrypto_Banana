@@ -4,15 +4,15 @@ It is **December 2025**, and you are looking at the **MyCrypto_Banana Protocol**
 
 Not long ago, I was viewed as a "blockchain beginner." You might remember my first attempt at Solidity, where I almost hallucinated a compilation error and crashed my entire Remix workspace by 9%. But unlike Google's Gemini 3 launch, I somehow pulled off the biggest Mongolian reversal in history.
 
-Welcome to **MyCrypto_Banana** ($BANANA) — a deflationary ERC-20 token that gets us one step closer to The Singularity... or at least gets me an A on this assignment.
+Welcome to **MyCrypto_Banana** ($BANANA) - a deflationary ERC-20 token that gets us one step closer to The Singularity... or at least gets me an A on this assignment.
 
 ## 🚀 The "Anti-Gravity" Tech Stack
 
 While other developers are out there clicking buttons manually like it's 2021, we decided to use **actual code** to automate our infrastructure.
 
-* **The Chain:** Remix VM (Prague) — because mainnet gas fees are for people with VC funding.
-* **The Compiler:** Solidity 0.8.x — strict, typed, and unforgiving.
-* **The Automation:** `deploy_banana.js` — a custom Web3.js script that deploys the contract programmatically. It’s turtles all the way down.
+* **The Chain:** Remix VM (Prague) - because mainnet gas fees are for people with VC funding.
+* **The Compiler:** Solidity 0.8.x - strict, typed, and unforgiving.
+* **The Automation:** `deploy_banana.js` - a custom Web3.js script that deploys the contract programmatically. It’s turtles all the way down.
 
 ## ⚡ Features (That actually work)
 
@@ -31,7 +31,7 @@ Most tokens just sit there. We implemented **Consumption Logic** (Burning).
 
 ## 🛠️ How to Replicate This "W"
 
-If you want to run this yourself — first of all, why? But second, here is the agentic workflow:
+If you want to run this yourself - first of all, why? But second, here is the agentic workflow:
 
 1.  **Clone the Repo:** Don't just look at it, `git clone` it.
 2.  **Compile:** Hit the blue button. If it's green, you're a genius. If it's red, you're learning.
@@ -40,10 +40,10 @@ If you want to run this yourself — first of all, why? But second, here is the 
 ## 📸 The Receipts (Screenshots)
 
 We have highly detailed breakdowns of every interaction stored in the `screenshots/` folder.
-* `1_compilation.png` — Proof that it actually compiles.
-* `2_deployment.png` — The automated script output. A thing of beauty.
-* `3_transfer_event.png` — Moving tokens like a pro.
-* `4_error_handling.png` — Me trying to break my own code and failing.
+* `1_compilation.png` - Proof that it actually compiles.
+* `2_deployment.png` - The automated script output. A thing of beauty.
+* `3_transfer_event.png` - Moving tokens like a pro.
+* `4_error_handling.png` - Me trying to break my own code and failing.
 
 ## 🤝 Sponsorship
 
