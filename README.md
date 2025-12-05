@@ -51,4 +51,10 @@ This project is sponsored by **My Grades**. Please give me a good one so I don't
 
 ***
 
-**This has been MyCrypto_Banana. Thanks for watching, and I will see you in the next one.**
+## 🏆 Survival Award
+
+This has been **MyCrypto_Banana**.
+
+If you survived reading this far without your attention span disintegrating into Instagram brain rot, congratulations! you are in the top 1% of meatbags.
+
+Thanks for reading, and **I will see you in the next one.**
